@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9e4c98&width=435&lines=HELLO+WORLD!)](https://git.io/typing-svg)
+## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9e4c98&width=435&lines=HELLO+WORLD!)](https://git.io/typing-svg)
 
 ##                    Hi 
 ★ *Hi, I'm Achraf, and I'm 18 years old. I'm a cybersecurity student, and I'm passionate about protecting the digital world.*</br></br>
