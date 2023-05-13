@@ -10,4 +10,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACHUX21&bg_color=000000&color=9e4c98&line=9e4c98&point=9c9c9c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<img src="https://i.pinimg.com/originals/64/3b/f3/643bf370f6016c5d68e7e54d55086af0.gif" width="700" height="200" />
+<img src="https://i.pinimg.com/originals/64/3b/f3/643bf370f6016c5d68e7e54d55086af0.gif" width="800" height="500" />
