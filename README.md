@@ -20,8 +20,9 @@
 
 # My TryHackMe Profile :
  <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
-[![CTFtime Profile](https://www.google.com/imgres?imgurl=https%3A%2F%2Fctftime.org%2Fstatic%2Fimages%2Fct%2Flogo.svg&tbnid=DBw7Nv6Anb1VFM&vet=12ahUKEwjA8cqElq__AhUYmicCHcD5AswQMygQegQIARBG..i&imgrefurl=https%3A%2F%2Fctftime.org%2F&docid=3Zpsg9Hi6FSJrM&w=800&h=224&q=tokyo%20ghoul%20ctftime&client=ubuntu-sn&ved=2ahUKEwjA8cqElq__AhUYmicCHcD5AswQMygQegQIARBG)](https://ctftime.org/user/150843)
 
 ##
+[![CTFtime Profile](https://ctftime.org/static/images/ct/logo.svg)](https://ctftime.org/user/150843)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
