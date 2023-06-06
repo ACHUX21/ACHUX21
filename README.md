@@ -9,9 +9,10 @@
 ★ *My goal is to work as a cybersecurity analyst or penetration tester to defend against malicious attacks.*</br></br>
 </br></br>
 ## Hobbies :
+                                                ![Alt Text](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
    ★ *Watching Anime* </br>
-   ★ *Listening to music* </br>
+   ★ *Listening to music* </br>  
    ★ *Playing CTFs* </br>
    ★ *Watching Netflix* </br>
 
