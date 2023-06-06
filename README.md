@@ -17,9 +17,6 @@
    ★ *Listening to music* </br>
    ★ *Playing CTFs* </br>
    ★ *Watching Netflix* </br>
-# My HackTheBox Profile :
-
-![](https://www.hackthebox.eu/badge/image/)
 
 # My TryHackMe Profile :
  <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
