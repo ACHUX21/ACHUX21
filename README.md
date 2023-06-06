@@ -22,8 +22,10 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
 
 # My Ctftime Profile :
-
-<a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50"></a>
+<div style="display: flex;">
+    <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50" style="float: right;"></a>
+    <img src="https://ctftime.org/media/cache/20/75/2075845dfe6699fbfc93a50709ee9290.jpg" alt="Image" width="150" height="50" style="float: left;">
+</div>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
