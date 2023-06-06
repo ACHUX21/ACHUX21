@@ -10,10 +10,10 @@
 </br></br>
 ## Hobbies :
 
-    * Watching Anime *
-    * Listening to music *
-    * Playing CTFs *
-    * Watching Netflix *
+   ★ *Watching Anime*
+   ★ *Listening to music*
+   ★ *Playing CTFs*
+   ★ *Watching Netflix*
 
 ##
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
