@@ -8,6 +8,12 @@
 ★ *I keep up to date with the latest trends and technologies through competitions and challenges.*</br></br>
 ★ *My goal is to work as a cybersecurity analyst or penetration tester to defend against malicious attacks.*</br></br>
 </br></br>
+## Hobbies :
+
+    sparkles Watching Anime
+    sparkles Listening to music
+    sparkles Playing CTFs
+    sparkles Watching Netflix
 
 ##
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
