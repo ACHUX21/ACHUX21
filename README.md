@@ -17,6 +17,13 @@
    ★ *Listening to music* </br>
    ★ *Playing CTFs* </br>
    ★ *Watching Netflix* </br>
+# My HackTheBox Profile :
+
+![](https://www.hackthebox.eu/badge/image/802540)
+
+# My TryHackMe Profile :
+[![Badge](https://tryhackme.com/badge/669331)](https://tryhackme.com/p/ACHUX21)
+
 
 ##
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
