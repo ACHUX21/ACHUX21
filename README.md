@@ -19,11 +19,10 @@
    ★ *Watching Netflix* </br>
 # My HackTheBox Profile :
 
-![](https://www.hackthebox.eu/badge/image/802540)
+![](https://www.hackthebox.eu/badge/image/)
 
 # My TryHackMe Profile :
-[![Badge](https://tryhackme.com/badge/669331)](https://tryhackme.com/p/ACHUX21)
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
 
 ##
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
