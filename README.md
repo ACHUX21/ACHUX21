@@ -22,7 +22,7 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
 
 ##
-[![CTFtime Profile](https://ctftime.org/static/images/ct/logo.svg)](https://ctftime.org/user/150843)
+<a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50"></a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
