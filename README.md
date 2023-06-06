@@ -24,7 +24,7 @@
 # My Ctftime Profile :
 <div style="display: flex;">
     <img src="https://ctftime.org/media/cache/20/75/2075845dfe6699fbfc93a50709ee9290.jpg" alt="Image" width="50" height="50" style="float: left; margin-right: 10px;">
-    <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="50" height="50" style="float: right;"></a>
+    <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50" style="float: right;"></a>
 </div>
 
 
