@@ -19,7 +19,9 @@
    ★ *Watching Netflix* </br>
 
 # My TryHackMe Profile :
- <img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
+<div style="display: flex;">
+    <a href="https://tryhackme.com/p/achux21"><img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe"></a>
+</div>
 
 # My Ctftime Profile :
 <div style="display: flex;">
