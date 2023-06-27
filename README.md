@@ -8,6 +8,10 @@
 ★ *I keep up to date with the latest trends and technologies through competitions and challenges.*</br></br>
 ★ *My goal is to work as a cybersecurity analyst or penetration tester to defend against malicious attacks.*</br></br>
 </br></br>
+For more Info:
+[Visit **My websites**](https://achux21.github.io/Info/) to know more about Me. 🚀
+[Visit **My Blog**](https://achux21.github.io/blog/) for more Writeups.🔥
+
 
 
 ## Hobbies : <img alt="GIF" align="left" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
