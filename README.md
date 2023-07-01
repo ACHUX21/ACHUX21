@@ -37,5 +37,7 @@
     <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50" style="float: right;"></a>
 </div>
 
+![SVG Image](skills.svg)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
