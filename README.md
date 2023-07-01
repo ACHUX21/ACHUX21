@@ -21,10 +21,6 @@
 
 ## Hobbies : 
 
-<a href="https://tryhackme.com/p/achux21"><img src="skills.svg" alt="Skills"></a>
-
-
-
    ★ *Watching Anime* </br>
    ★ *Listening to music* </br>
    ★ *Playing CTFs* </br>
@@ -32,8 +28,10 @@
 
 # My TryHackMe Profile :
 <div style="display: flex;">
-    <a href="https://tryhackme.com/p/achux21"><img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe"></a>
+   <a href="https://tryhackme.com/p/achux21"><img src="skills.svg" alt="Skills"></a> 
+   <a href="https://tryhackme.com/p/achux21"><img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe"></a>
 </div>
+
 
 # My Ctftime Profile :
 <div style="display: flex;">
