@@ -46,6 +46,7 @@
 
 
 
-
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+<a href='https://kapasia-dev-ed.my.site.com/Badges4Me/s/' target="_blank"><img alt='Hackthebox' src='https://img.shields.io/badge/HackTheBox-100000?style=for-the-badge&logo=Hackthebox&logoColor=white&labelColor=B10CBA&color=4C0659'/></a>
+<a href='https://www.instagram.com/___13_37___/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=8020E0&labelColor=181818&color=000000'/></a>
