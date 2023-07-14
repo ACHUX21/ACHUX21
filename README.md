@@ -15,7 +15,7 @@
 
 </br>
 
-[Visit **My Blog**](https://iloveweb.online/) for more Writeups.🔥
+[Visit **My Blog**](https://iloveweb.online/) for Writeups.🔥
 
 
 
