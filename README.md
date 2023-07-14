@@ -15,7 +15,7 @@
 
 </br>
 
-<a href="https://iloveweb.online/" target="_blank">Visit <strong>My Blog</strong></a> for Writeups.🔥
+<a href="https://iloveweb.online/posts/" target="_blank">Visit <strong>My Blog</strong></a> for Writeups.🔥
 
 
 
