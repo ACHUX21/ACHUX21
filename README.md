@@ -11,11 +11,12 @@
 ## For more :
 </br>
 
-[Visit **My websites**](https://achux21.online/) to know more about Me. 🚀
+<a href="https://achux21.online/" target="_blank">Visit <strong>My websites</strong></a> to know more about Me. 🚀
 
 </br>
 
-[Visit **My Blog**](https://iloveweb.online/) for Writeups.🔥
+<a href="https://iloveweb.online/" target="_blank">Visit <strong>My Blog</strong></a> for Writeups.🔥
+
 
 
 
