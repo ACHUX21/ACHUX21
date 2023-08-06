@@ -49,7 +49,6 @@
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://github.com/ACHUX21/ACHUX21/assets/130113878/ef1b97b4-689a-4787-8c2f-780de5f275f6)
