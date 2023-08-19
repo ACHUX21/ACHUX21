@@ -41,21 +41,21 @@
         <line id="SvgjsLine1251" x1="-121.24355652982138" y1="70.00000000000006" x2="0" y2="0" stroke="#010309" stroke-dasharray="0" stroke-linecap="butt"></line>
         <line id="SvgjsLine1252" x1="-121.24355652982146" y1="-69.9999999999999" x2="0" y2="0" stroke="#010309" stroke-dasharray="0" stroke-linecap="butt"></line>
         <g id="SvgjsG1261" class="apexcharts-xaxis">
-          <text id="SvgjsText1262" font-family="Helvetica, Arial, sans-serif" x="0" y="-150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="0" cy="-150" style="font-family: Helvetica, Arial, sans-serif;">Linux</text>
-          <text id="SvgjsText1263" font-family="Helvetica, Arial, sans-serif" x="131.2435565298214" y="-70.00000000000001" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="131.2435565298214" cy="-70.00000000000001" style="font-family: Helvetica, Arial, sans-serif;">
+          <text id="SvgjsText1262" font-family="Helvetica, Arial, sans-serif" x="0" y="-150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="0" cy="-150" style="font-family: Helvetica, Arial, sans-serif;">Linux</text>
+          <text id="SvgjsText1263" font-family="Helvetica, Arial, sans-serif" x="131.2435565298214" y="-70.00000000000001" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="131.2435565298214" cy="-70.00000000000001" style="font-family: Helvetica, Arial, sans-serif;">
             <tspan id="SvgjsTspan1264">Web</tspan>
             <tspan id="SvgjsTspan1265" dy="14.3" x="131.2435565298214">Exploitation</tspan>
           </text>
-          <text id="SvgjsText1266" font-family="Helvetica, Arial, sans-serif" x="131.24355652982143" y="69.99999999999997" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="131.24355652982143" cy="69.99999999999997" style="font-family: Helvetica, Arial, sans-serif;">
+          <text id="SvgjsText1266" font-family="Helvetica, Arial, sans-serif" x="131.24355652982143" y="69.99999999999997" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="131.24355652982143" cy="69.99999999999997" style="font-family: Helvetica, Arial, sans-serif;">
             <tspan id="SvgjsTspan1267">Windows</tspan>
             <tspan id="SvgjsTspan1268" dy="14.3" x="131.24355652982143">Exploitation</tspan>
           </text>
-          <text id="SvgjsText1269" font-family="Helvetica, Arial, sans-serif" x="1.7145055188062946e-14" y="150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="1.7145055188062946e-14" cy="150" style="font-family: Helvetica, Arial, sans-serif;">Fundamentals</text>
-          <text id="SvgjsText1270" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982138" y="70.00000000000006" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="-131.24355652982138" cy="70.00000000000006" style="font-family: Helvetica, Arial, sans-serif;">
+          <text id="SvgjsText1269" font-family="Helvetica, Arial, sans-serif" x="1.7145055188062946e-14" y="150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="1.7145055188062946e-14" cy="150" style="font-family: Helvetica, Arial, sans-serif;">Fundamentals</text>
+          <text id="SvgjsText1270" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982138" y="70.00000000000006" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="-131.24355652982138" cy="70.00000000000006" style="font-family: Helvetica, Arial, sans-serif;">
             <tspan id="SvgjsTspan1271">Privilege</tspan>
             <tspan id="SvgjsTspan1272" dy="14.3" x="-131.24355652982138">Escalation</tspan>
           </text>
-          <text id="SvgjsText1273" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982146" y="-69.9999999999999" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#0d1017" class="apexcharts-datalabel" cx="-131.24355652982146" cy="-69.9999999999999" style="font-family: Helvetica, Arial, sans-serif;">
+          <text id="SvgjsText1273" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982146" y="-69.9999999999999" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="-131.24355652982146" cy="-69.9999999999999" style="font-family: Helvetica, Arial, sans-serif;">
             <tspan id="SvgjsTspan1274">Network</tspan>
             <tspan id="SvgjsTspan1275" dy="14.3" x="-131.24355652982146">Exploitation</tspan>
           </text>
