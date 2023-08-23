@@ -2,7 +2,7 @@
 
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BACHUX21%5D+profile;achux@pop-os+~%24+{cat,root.txt};++ACHUX{ZWNobyAxLTIyIHxyZXY=};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=200&height=80&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BACHUX21%5D+profile;achux@pop-os+~%24+{cat,root.txt};++ACHUX{ZWNobyAxLTIyIHxyZXY=};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)
 
 ##                    
 ★ *Hi, I'm an 18 years old cybersecurity student, and I'm passionate about protecting the digital world.*</br></br>
@@ -24,10 +24,7 @@
 
 ## Hobbies : 
 
-   ★ *Watching Anime* </br>
-   ★ *Listening to music* </br>
-   ★ *Playing CTFs* </br>
-   ★ *Watching Netflix* </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=false&width=435&height=180&lines=%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%96%F0%9D%9A%8E;%F0%9D%99%BB%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%9A%9D%F0%9D%9A%98%20%F0%9D%9A%96%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%8C;%F0%9D%99%BF%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%A2%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B2%F0%9D%9A%83%F0%9D%99%B5%F0%9D%9A%9C;%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%8F%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%A1)
 
 # My TryHackMe Profile :
 <div style="display: flex;">
