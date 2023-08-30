@@ -26,7 +26,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=false&width=435&height=180&lines=%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%96%F0%9D%9A%8E;%F0%9D%99%BB%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%9A%9D%F0%9D%9A%98%20%F0%9D%9A%96%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%8C;%F0%9D%99%BF%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%A2%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B2%F0%9D%9A%83%F0%9D%99%B5%F0%9D%9A%9C;%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%8F%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%A1)](https://git.io/typing-svg)
 # My TryHackMe Profile :
-![tryhackme stats](https://raw.githubusercontent.com/ACHUX21/ACHUX21/main/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/achux21.png)
 
 
 
