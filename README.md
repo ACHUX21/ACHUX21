@@ -30,13 +30,15 @@
 
 # Links :
 <div style="display: flex;">
-    <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50" style="float: right;"></a>
-  <a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" target="_blank">
-  <img src="icons8-linkedin-circled.svg" alt="LinkedIn">
-</a>
-      <a href="https://iloveweb.online/"><img src="https://github.com/ACHUX21/ACHUX21/assets/130113878/ca7032b1-c1a1-49e9-918a-05ad00e9a4a4" alt="ILoveWeb" width="60" height="60" style="float: right;">
-</a>
+    <a href="https://ctftime.org/user/150843" style="flex: 1;"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50"></a>
+    <a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" target="_blank" style="flex: 1;">
+        <img src="icons8-linkedin-circled.svg" alt="LinkedIn">
+    </a>
+    <a href="https://iloveweb.online/" style="flex: 1;">
+        <img src="" alt="ILoveWeb" width="60" height="60">
+    </a>
 </div>
+
 
 </br>
 
