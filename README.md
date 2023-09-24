@@ -41,6 +41,7 @@
   <img src="skills.svg" alt="Skills" >
 </a>
 
+# LinKedin: 
 
 
 
