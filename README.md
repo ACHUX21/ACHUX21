@@ -28,10 +28,10 @@
 </br></br>
 
 
+# TryHackMe :
+
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/achux21.png)
-
-# Skill-Matrix :
-
+</br>
 <a href="https://tryhackme.com/p/achux21">
   <img src="skills.svg" alt="Skills" >
 </a>
