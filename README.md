@@ -27,7 +27,8 @@
 
 
 ### TryHackMe Profile : 
-# ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/achux21.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/achux21.png" alt="TryHackMe">
+
 </br>
 <a href="https://tryhackme.com/p/achux21">
   <img src="skills.svg" alt="Skills" >
