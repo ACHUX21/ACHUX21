@@ -18,10 +18,11 @@
         <img src="icons8-linkedin-circled.svg" alt="LinkedIn" style="max-width: 60px;">
     </a>
     <a href="https://iloveweb.online/" style="flex: 1;">
-        <img src="blogging_9611353.png" alt="ILoveWeb" width="60" height="60">
+        <img src="blogging_9611353.png" alt="ILoveWeb" width="50" height="50">
     </a>
+</div><div>
     <a href="https://achux21.online/" style="flex: 1;">
-        <img src="portfolio_5595342.png" alt="ACHUX21" width="60" height="60">
+        <img src="portfolio_5595342.png" alt="ACHUX21" width="50" height="50">
     </a>
 </div>
 
