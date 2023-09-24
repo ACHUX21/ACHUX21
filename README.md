@@ -20,7 +20,7 @@
 <a href="https://iloveweb.online/posts/" target="_blank">Visit <strong>My Blog</strong></a> for Writeups.🔥
 
 ### Linkedin
-<a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/">
+<a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" target="_blank">
   <img src="icons8-linkedin-circled.svg" alt="LinkedIn">
 </a>
 </br>
