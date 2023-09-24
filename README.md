@@ -19,26 +19,28 @@
 
 <a href="https://iloveweb.online/posts/" target="_blank">Visit <strong>My Blog</strong></a> for Writeups.🔥
 
-### Linkedin
-<a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" target="_blank">
-  <img src="icons8-linkedin-circled.svg" alt="LinkedIn">
-</a>
-</br>
+
 
 
 
 ## Hobbies : 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=false&width=435&height=180&lines=%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%96%F0%9D%9A%8E;%F0%9D%99%BB%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%9A%9D%F0%9D%9A%98%20%F0%9D%9A%96%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%8C;%F0%9D%99%BF%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%A2%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%B2%F0%9D%9A%83%F0%9D%99%B5%F0%9D%9A%9C;%F0%9D%9A%86%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90%20%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%8F%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%A1)](https://git.io/typing-svg)
-# My TryHackMe Profile :
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/achux21.png)
 
 
-
-# My Ctftime Profile :
+# Links :
 <div style="display: flex;">
     <a href="https://ctftime.org/user/150843"><img src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFtime Profile" width="150" height="50" style="float: right;"></a>
+  <a href="https://www.linkedin.com/in/achraf-ouazzani-chahidi-7b1155271/" target="_blank">
+  <img src="icons8-linkedin-circled.svg" alt="LinkedIn">
+</a>
+      <a href="https://iloveweb.online/"><img src="https://github.com/ACHUX21/ACHUX21/assets/130113878/ca7032b1-c1a1-49e9-918a-05ad00e9a4a4" alt="ILoveWeb" width="60" height="60" style="float: right;">
+</a>
 </div>
+
+</br>
+
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/achux21.png)
 
 # Skill-Matrix :
 
