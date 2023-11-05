@@ -1,6 +1,6 @@
 # - ABOUT-ME
 
-### I am Achraf, AKA ACHUX21. I am a programmer and a Cybersecurity student hailing from Morocco. <img src="https://iloveweb.online/Hackor.webp" alt="banner" width="600" height="300" style="float:right;">
+### I am Achraf, AKA ACHUX21. I am a Cybersecurity student hailing from Morocco. <img src="https://iloveweb.online/Hackor.webp" alt="banner" width="600" height="300" style="float:right;">
 
 ### <span style="color:purple">- Learning :</span>
 🌟 I'm presently pursuing eJPT certification alongside a cybersec degree.
